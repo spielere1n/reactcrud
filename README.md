@@ -70,3 +70,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Link to tutorial
 
 https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/
+
+## If error: 'react-scripts' is not recognized as an internal or external command :
+
+https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command
+
+
